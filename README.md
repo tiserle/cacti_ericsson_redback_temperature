@@ -5,6 +5,7 @@
 3、In resource/snmp_queries
 put rb_temperature.xml
 
-4、upload all *.xml file in cacti web gui
+4、Import other *.xml file in cacti web gui
 
 5、When using in SSR might fail while snmp timeout (SSR problem)
+
