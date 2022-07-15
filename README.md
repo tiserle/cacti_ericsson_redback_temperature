@@ -7,5 +7,5 @@ put rb_temperature.xml
 
 4、Import other *.xml file in cacti web gui
 
-5、When using in SSR might fail while snmp timeout (SSR problem)
+5、When using in SSR might fail while snmp timeout (SSR problem, you could change the snmp timeout time to maximum)
 
